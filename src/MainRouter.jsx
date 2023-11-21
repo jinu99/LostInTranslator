@@ -11,7 +11,7 @@ function MainRouter() {
   const { user } = useContext(AuthContext);
 
   return (
-    <BrowserRouter basename="">
+    <BrowserRouter basename="/LostInTranslator">
       <Routes>
         <Route
           path='/login'
