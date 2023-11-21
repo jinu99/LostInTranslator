@@ -2,14 +2,16 @@ import React, { useContext } from 'react';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { AuthContext } from './contexts/auth';
 import LoginPage from './pages/auth/LoginPage';
-import MainPage from './pages/main/MainPage';
 import ChatPage from './pages/chat/ChatPage';
+import { APP_ID } from './secret';
+import SendbirdApp from '@sendbird/uikit-react/App';
+import '@sendbird/uikit-react/dist/index.css';
 
 function MainRouter() {
   const { user } = useContext(AuthContext);
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="">
       <Routes>
         <Route
           path='/login'
@@ -18,7 +20,9 @@ function MainRouter() {
         <Route
           path='/'
           element={
-            user.userId ? <MainPage /> : <Navigate replace to='/login' />
+            user.userId ? 
+            <SendbirdApp appId={APP_ID} userId={user.userId}/> : 
+            <Navigate replace to='/login' />
           }
         />
         <Route
