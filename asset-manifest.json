@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LostInTranslator/static/css/main.2db6030d.css",
+    "main.js": "/LostInTranslator/static/js/main.8a06dd1f.js",
+    "static/js/539.3041950e.chunk.js": "/LostInTranslator/static/js/539.3041950e.chunk.js",
+    "static/js/932.189cc2a6.chunk.js": "/LostInTranslator/static/js/932.189cc2a6.chunk.js",
+    "index.html": "/LostInTranslator/index.html",
+    "main.2db6030d.css.map": "/LostInTranslator/static/css/main.2db6030d.css.map",
+    "main.8a06dd1f.js.map": "/LostInTranslator/static/js/main.8a06dd1f.js.map",
+    "539.3041950e.chunk.js.map": "/LostInTranslator/static/js/539.3041950e.chunk.js.map",
+    "932.189cc2a6.chunk.js.map": "/LostInTranslator/static/js/932.189cc2a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db6030d.css",
+    "static/js/main.8a06dd1f.js"
+  ]
+}
