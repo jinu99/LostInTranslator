@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/LostInTranslator/static/css/main.2db6030d.css",
-    "main.js": "/LostInTranslator/static/js/main.8a06dd1f.js",
+    "main.css": "/LostInTranslator/static/css/main.4ee27ed0.css",
+    "main.js": "/LostInTranslator/static/js/main.d0770671.js",
     "static/js/539.3041950e.chunk.js": "/LostInTranslator/static/js/539.3041950e.chunk.js",
     "static/js/932.189cc2a6.chunk.js": "/LostInTranslator/static/js/932.189cc2a6.chunk.js",
+    "static/js/122.da4b414c.chunk.js": "/LostInTranslator/static/js/122.da4b414c.chunk.js",
     "index.html": "/LostInTranslator/index.html",
-    "main.2db6030d.css.map": "/LostInTranslator/static/css/main.2db6030d.css.map",
-    "main.8a06dd1f.js.map": "/LostInTranslator/static/js/main.8a06dd1f.js.map",
+    "main.4ee27ed0.css.map": "/LostInTranslator/static/css/main.4ee27ed0.css.map",
+    "main.d0770671.js.map": "/LostInTranslator/static/js/main.d0770671.js.map",
     "539.3041950e.chunk.js.map": "/LostInTranslator/static/js/539.3041950e.chunk.js.map",
-    "932.189cc2a6.chunk.js.map": "/LostInTranslator/static/js/932.189cc2a6.chunk.js.map"
+    "932.189cc2a6.chunk.js.map": "/LostInTranslator/static/js/932.189cc2a6.chunk.js.map",
+    "122.da4b414c.chunk.js.map": "/LostInTranslator/static/js/122.da4b414c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2db6030d.css",
-    "static/js/main.8a06dd1f.js"
+    "static/css/main.4ee27ed0.css",
+    "static/js/main.d0770671.js"
   ]
 }
